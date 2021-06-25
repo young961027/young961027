@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7fff5f&text=%20Young%20Hwang%20&fontColor=373535&height=300&fontSize=95&textBg=false)
-<div align='center'>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=loopbackseal)](https://github.com/eungyeole/velog-readme-stats)</div>
+<div align="center" style="text-align:center">
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=loopbackseal)](https://github.com/eungyeole/velog-readme-stats)
+</div>
 ### 💻 I've Experienced..
 ***
 <div pointer-evnets='none'>
@@ -8,7 +10,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=Git&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Passport-34E27A-000000?style=flat-square&logo=Passport&logoColor=black"/>&nbsp
+  <img src="https://img.shields.io/badge/Passport-34E27A?style=flat-square&logo=Passport&logoColor=black"/>&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffcd3c"/>&nbsp
   <img src="https://img.shields.io/badge/C-4574E0?style=flat-square&logo=C&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
