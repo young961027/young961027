@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=7fff5f&text=%20Young%20Hwang%20&fontColor=373535&height=300&fontSize=95&textBg=false)
-<center>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=loopbackseal)](https://github.com/eungyeole/velog-readme-stats)</center>
+<div align='center'>[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=loopbackseal)](https://github.com/eungyeole/velog-readme-stats)</div>
 ### 💻 I've Experienced..
 ***
 <div pointer-evnets='none'>
@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/C-4574E0?style=flat-square&logo=C&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=F37C20"/>&nbsp
-</p>
+</div>
 ### 📟 Contact me
 ***
 <a href="https://velog.io/@loopbackseal"><img src="https://img.shields.io/badge/Velog-00d29a?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
