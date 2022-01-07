@@ -2,7 +2,7 @@
 
 # Hi! I'm Young from Seoul
 ### Here's my recent post at my velog
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=loopbackseal)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=loopbackseal)](https://velog-readme-stats.vercel.app/api/redirect?name=eungyeole&tag=github)
 
 ### 💻 I've Experienced..
 ## 
