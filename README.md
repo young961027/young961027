@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=7fff5f&text=%20Young%20Hwang%20&fontColor=373535&height=300&fontSize=95&textBg=false)
-
 # Hi! I'm Young from Seoul
 ### I'm studying @ 42SEOUL!
 [![yohwang's 42 stats](https://badge42.herokuapp.com/api/stats/yohwang?privacyName=true)](https://profile.intra.42.fr/users/yohwang)
