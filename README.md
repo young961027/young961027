@@ -1,7 +1,6 @@
 # Hi! I'm Young from Seoul
 ### I'm studying @ 42SEOUL!
-<!-- [![yohwang's 42 stats](https://badge42.herokuapp.com/api/stats/yohwang?privacyName=true)](https://profile.intra.42.fr/users/yohwang) -->
-
+[![yohwang's 42 stats](https://badge42.vercel.app/api/v2/cl1n7diby001109l17lryviie/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 ### 💻 I've Experienced..
 ## 
 <div pointer-evnets='none'>
