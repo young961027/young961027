@@ -1,6 +1,6 @@
 # Hi! I'm Young from Seoul
 ### Studied @ 42SEOUL! (21.11 ~ 22.7)
-### Working @ VINULABS for iOS Developer (22.7 ~ )
+### Working as iOS Developer (22.7 ~ )
 ### 💻 I've Experienced..
 ## 
 <div pointer-evnets='none'>
